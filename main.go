@@ -1,3 +1,15 @@
+      // CodeCrafters — Hackathon 002
+         // Squad: [The Structs]
+         // Member: [ina isah, iisah]
+         // Member: [omafu samuel, somafu]
+         // Member: [Otete Benjamin, botete]
+         // Member: [Odeh owoicho emmanuel, emmodeh]
+         // Member: [Wealth Ibe, wibe]
+         // Member: [Odumu John, jodumu]
+         // Member: [Edward John, edwjohn]
+         // Member: [inaju Daniel, dinaju]
+
+
 package main
 
 import (
